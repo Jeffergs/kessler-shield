@@ -106,10 +106,12 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 - Vite
 
 ## UI / UX
-- Bootstrap 5.3
-- Framer Motion
-- React Icons
-- Lucide React
+<img width="20" height="20"  alt="bootstrap" src="https://github.com/user-attachments/assets/b2efa926-4a9e-4fa8-b59f-92240e152954" /> Bootstrap 5.3 <br>
+<img width="20" height="20" alt="framer-2" src="https://github.com/user-attachments/assets/f567e1c9-5ee8-449b-9415-02e5d0f92fb3" /> Framer Motion
+<br>
+<img width="20" height="20" alt="icons8-reagir-80" src="https://github.com/user-attachments/assets/03aa3b01-2747-4e7f-b31a-69bedd3a9237" /> React Icons
+<br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6c9ccd81-3aef-4fd7-b1f1-5b892837e880" /> Lucide React
 
 ## Interatividade
 - React CountUp
