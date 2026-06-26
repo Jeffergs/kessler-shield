@@ -1,122 +1,267 @@
-# Kessler Shield
+<div align="center">
 
-```
-  ██╗  ██╗███████╗███████╗███████╗██╗     ███████╗██████╗
-  ██║ ██╔╝██╔════╝██╔════╝██╔════╝██║     ██╔════╝██╔══██╗
-  █████╔╝ █████╗  ███████╗███████╗██║     █████╗  ██████╔╝
-  ██╔═██╗ ██╔══╝  ╚════██║╚════██║██║     ██╔══╝  ██╔══██╗
-  ██║  ██╗███████╗███████║███████║███████╗███████╗██║  ██║
-  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-            S H I E L D
-```
+# 🛰️ Kessler Shield — Proteção Orbital Contra Detritos Espaciais
 
-**Captura de detritos por Polímero Expansível**  
-FIAP Global Solution 2026
+Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma solução inovadora de captura de detritos espaciais baseada em **polímero expansível inteligente**, com foco em sustentabilidade orbital, segurança espacial e economia do espaço.
 
----
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Build-purple?style=for-the-badge&logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animations-black?style=for-the-badge)
 
-O projeto nasce de um problema real que a maioria das pessoas desconhece: há mais de 40 mil objetos rastreados em órbita, e mais de 1,2 milhão de fragmentos menores que 1 cm que não conseguimos nem monitorar. Esses detritos viajam a cerca de 10 km/s. Uma colisão gera novos fragmentos; esses fragmentos geram mais colisões. Donald Kessler descreveu esse efeito cascata em 1978 e se não fizermos nada, algumas órbitas vão se tornar inacessíveis dentro de algumas décadas. Satélites de comunicação, GPS, previsão do tempo — tudo isso vive nessas órbitas.
+<p>
+🌐 <strong>Deploy:</strong> https://kessler-shield.vercel.app/
+</p>
 
-A proposta do Kessler Shield é capturar esses detritos com um polímero expansível (espuma). O satélite se aproxima do detrito, sincroniza o movimento orbital, dispara a espuma que envolve o objeto suavemente, e a área superficial aumentada gera atrito com a atmosfera residual até que o conjunto reentra e se incinera. Quatro etapas, sem fragmentação adicional.
-
-Este repositório é o site institucional que apresenta esse projeto — o problema, a solução, a viabilidade financeira, as referências científicas que embasam tudo, e um simulador interativo da Síndrome de Kessler.
+</div>
 
 ---
 
-## Páginas
+# 📑 Índice
 
-```
-/              Home — apresentação completa em seis seções
-/solucao       As quatro etapas de captura com ilustrações
-/financeiro    Modelos de receita e projeções financeiras
-/referencias   Base científica com busca e filtros
-/simulador     Simulador 3D da dinâmica orbital
-```
-
-O fluxo pensado para quem chega pela primeira vez é linear: a Home já conta a história inteira (problema, solução, pitch financeiro, uma amostra das referências, contato e equipe), então as outras páginas são o aprofundamento de cada bloco.
-
-```mermaid
-graph LR
-    Home --> Solucao["Solução"]
-    Home --> Financeiro
-    Home --> Referencias["Referências"]
-    Home --> Simulador
-    Home -.-> Contato["#contato (âncora)"]
-```
-
-**Home** tem seis seções numeradas. A primeira é o hero com o conceito central. Depois vem uma chamada pro simulador, o problema com os números da ESA/NASA, um resumo dos quatro passos da solução, os três modelos de receita, e uma prévia das referências. No final ficam o formulário de contato/newsletter e a apresentação da equipe.
-
-**Solução** detalha cada etapa da missão de captura com imagens e texto explicativo. Cada passo tem um nome: A Dança Sincronizada, O Efeito Teia de Aranha, O Paraquedas Invisível, A Lixeira Incineradora.
-
-**Financeiro** apresenta três fontes de receita — B2B (mercado de seguros de US$580M), B2G (contratos ADR-as-a-Service com governos), e ESG (tokenização de Créditos Orbitais) — com simulação financeira interativa e breakdown de custos.
-
-**Referências** é uma base pesquisável com 17 fontes científicas e institucionais (ESA, NASA, SpaceX, periódicos de engenharia aeroespacial). Dá pra filtrar por categoria e pesquisar por texto.
-
-**Simulador** é um painel 3D em tempo real que modela a dinâmica da Síndrome de Kessler — satélites ativos, crescimento de detritos, colisões por ano, impacto financeiro. O globo renderiza as órbitas e a intensidade do aura aumenta conforme o sistema se deteriora. As equações diferenciais por trás da simulação ficam disponíveis em LaTeX dentro do painel.
+1. [🌍 Sobre o Projeto](#-sobre-o-projeto)
+2. [🚨 Problema](#-problema)
+3. [💡 Solução Proposta](#-solução-proposta)
+4. [📈 Impacto](#-impacto)
+5. [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+6. [⚡ Funcionalidades](#-funcionalidades)
+7. [🧪 Simulador Interativo](#-simulador-interativo)
+8. [🎨 UX & Interatividade](#-ux--interatividade)
+9. [📂 Estrutura do Projeto](#-estrutura-do-projeto)
+10. [🚀 Como Executar](#-como-executar)
+11. [🧠 Decisões Técnicas](#-decisões-técnicas)
+12. [🚧 Melhorias Futuras](#-melhorias-futuras)
 
 ---
 
-## Stack
+# 🌍 Sobre o Projeto
 
-React 19 + Vite 8. Roteamento com React Router DOM v7. Animações com Framer Motion. Nenhuma biblioteca de UI — tudo CSS puro com variáveis de design e BEM. Ícones via Lucide e React Icons. Contadores animados com React CountUp. LaTeX no simulador com KaTeX. Bootstrap só para classes utilitárias de grid.
+O **Kessler Shield** foi desenvolvido como solução tecnológica para enfrentar um dos maiores desafios da economia espacial moderna: o crescimento contínuo de **detritos espaciais em órbita terrestre**.
 
-Acessibilidade tem VLibras (língua de sinais brasileira), UserWay, leitor de áudio, e ARIA em toda a estrutura.
+O projeto combina:
 
-Fontes: Orbitron para display, Space Grotesk para corpo.
+- 🛰️ tecnologia espacial  
+- 🌱 sustentabilidade orbital  
+- 🔒 segurança de satélites  
+- 💰 viabilidade econômica  
+
+Seu objetivo é demonstrar como inovação e engenharia podem proteger infraestruturas críticas dependentes do espaço.
+
+---
+
+# 🚨 Problema
+
+A órbita terrestre está cada vez mais congestionada por resíduos espaciais gerados por colisões, lançamentos antigos e satélites desativados.
+
+## Dados Alarmantes
+
+- ~ **40.000 objetos espaciais rastreados**
+- + **1,2 milhão de fragmentos maiores que 1 cm**
+- Velocidade média de impacto: **~10 km/s**
+
+Esses detritos podem desencadear a **Síndrome de Kessler**, um efeito cascata onde colisões geram novos fragmentos, aumentando exponencialmente o risco orbital.
+
+---
+
+# 💡 Solução Proposta
+
+O **Kessler Shield** propõe um sistema de remoção de detritos baseado em **Polímero Expansível Inteligente**.
+
+## Funcionamento
+
+1. Detritos são detectados em órbita  
+2. O sistema orbital intercepta o fragmento  
+3. O polímero encapsula o objeto  
+4. O material desacelera ou remove o detrito com segurança  
+
+Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade orbital.
+
+---
+
+# 📈 Impacto
+
+## 🌐 Benefícios Técnicos
+- Redução de colisões orbitais
+- Proteção de satélites
+- Maior segurança espacial
+
+## 💰 Benefícios Econômicos
+- Redução de perdas financeiras
+- Proteção de infraestrutura crítica
+- Expansão da economia espacial
+
+## 🌱 Benefícios Sustentáveis
+- Menor geração de lixo espacial
+- Preservação da órbita terrestre
+- Futuro mais seguro para missões espaciais
+
+---
+
+# 💻 Tecnologias Utilizadas
+
+## Frontend
+- React 19
+- JavaScript (ES6+)
+- Vite
+
+## UI / UX
+- Bootstrap 5.3
+- Framer Motion
+- React Icons
+- Lucide React
+
+## Interatividade
+- React CountUp
+- Intersection Observer
+- Simulações animadas customizadas
+
+---
+
+# ⚡ Funcionalidades
+
+## 🏠 Página Inicial
+- Introdução ao problema
+- Hero section animada
+- Navegação intuitiva
+
+## 🛰️ Página Solução
+- Explicação detalhada da tecnologia
+- Funcionamento do Kessler Shield
+
+## 💰 Página Financeiro
+- Modelos de monetização
+- Economia orbital
+- Receita B2B / B2G / ESG
+
+## 🧪 Página Simulador
+- Simulação visual da captura de detritos
+- Demonstração prática da solução
+- Interação com elementos orbitais
+
+## 📚 Página Referências
+- Fontes científicas
+- Dados de pesquisa
+- Embasamento técnico
+
+## 📞 Página Contato
+- Canal de comunicação
+- Formulário de contato
+
+---
+
+# 🧪 Simulador Interativo
+
+Uma das funcionalidades centrais do projeto é o **Simulador Interativo**, criado para transformar conceitos complexos da engenharia espacial em uma experiência visual e intuitiva.
+
+O simulador permite:
+
+- Visualizar detritos orbitando em tempo real
+- Entender riscos de colisão orbital
+- Observar o processo de captura pelo Kessler Shield
+- Compreender o papel do polímero expansível na mitigação de riscos
+
+Essa abordagem melhora significativamente a didática da apresentação e torna a solução mais tangível para o usuário.
+
+---
+
+# 🎨 UX & Interatividade
+
+O projeto prioriza uma experiência visual moderna e altamente interativa.
+
+## Recursos Visuais
+
+- 🌌 Background espacial animado
+- ✨ Transições suaves com Framer Motion
+- 📊 Contadores animados
+- 🚀 Scroll effects
+- 📱 Design totalmente responsivo
+
+---
+
+# 📂 Estrutura do Projeto
+
+```bash
+src
+│
+├── components
+│   ├── home
+│   ├── financeiro
+│   ├── solucao
+│   ├── simulador
+│
+├── pages
+│   ├── Home.jsx
+│   ├── Financeiro.jsx
+│   ├── Solucao.jsx
+│   ├── Simulador.jsx
+│   ├── Referencias.jsx
+│   ├── Contato.jsx
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+# 🚀 Como Executar
+
+## Pré-requisitos
+
+- Node.js 18+
+- npm
+
+---
+
+## Clonar repositório
+
+```bash
+git clone <URL_DO_REPOSITORIO>
+```
+
+---
+
+## Instalar dependências
+
+```bash
+npm install
+```
 
 ---
 
 ## Rodar localmente
 
 ```bash
-npm install
 npm run dev
 ```
 
-Vite sobe em `http://localhost:5173` por padrão. Para build de produção:
+---
+
+## Build de produção
 
 ```bash
 npm run build
-npm run preview
 ```
-
-Node 18+ recomendado. Sem variáveis de ambiente necessárias — o projeto é inteiramente client-side.
 
 ---
 
-## Estrutura do projeto
+# 🧠 Decisões Técnicas
 
-```
-src/
-├── pages/
-│   ├── Home.jsx
-│   ├── Solucao.jsx
-│   ├── Financeiro.jsx
-│   ├── Referencias.jsx
-│   └── Simulador/
-├── components/
-│   ├── Navbar.jsx
-│   ├── Footer.jsx
-│   ├── Starfield.jsx        # fundo estrelado em canvas
-│   ├── Reveal.jsx           # animação de entrada ao rolar
-│   ├── ui.jsx               # Badge, SectionLabel, PageHero
-│   ├── context/
-│   │   └── LanguageContext.jsx   # i18n PT/EN
-│   └── home/                # seções da Home como componentes separados
-└── data/
-    ├── references.js        # 17 referências científicas
-    ├── mercados.js
-    └── custos.js
-```
-
-CSS co-locado com cada componente. `index.css` guarda tokens e utilitários globais.
+- React + Vite para alta performance
+- Arquitetura componentizada para reuso
+- Framer Motion para UX premium
+- Simulador visual para reforço didático
+- Storytelling visual voltado para apresentações
 
 ---
 
-## Equipe
 
-Natália Lugão — Front-end & identidade visual  
-Sophia Coelho — Front-end & acessibilidade  
-Gabriel Soares — Front-end & design system  
-Jefferson Gomes — Front-end & UI/UX  
-André Melo — Desenvolvimento criativo
+# 👨‍💻 Equipe
+
+Projeto desenvolvido como **Global Solution FIAP**.
+
+### Integrantes
+- Jefferson Gomes — Pesquisa, conteúdo e desenvolvimento
+- Equipe multidisciplinar de desenvolvimento e design
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeffergs)
