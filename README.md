@@ -56,11 +56,11 @@ A órbita terrestre está cada vez mais congestionada por resíduos espaciais ge
 
 ## Dados Alarmantes
 
-- ~ **40.000 objetos espaciais rastreados**
-- + **1,2 milhão de fragmentos maiores que 1 cm**
-- Velocidade média de impacto: **~10 km/s**
+- [Mais de 40.000 objetos espaciais rastreados](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
+- [Mais de 1,2 milhão de fragmentos maiores que 1 cm](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
+- [Velocidade média de impacto de **10 km/s**](https://ntrs.nasa.gov/api/citations/20190001193/downloads/20190001193.pdf)
 
-Esses detritos podem desencadear a **Síndrome de Kessler**, um efeito cascata onde colisões geram novos fragmentos, aumentando exponencialmente o risco orbital.
+Esses detritos podem desencadear a [**Síndrome de Kessler**](https://misteriosdomundo.org/sindrome-de-kessler/), um efeito cascata onde colisões geram novos fragmentos, aumentando exponencialmente o risco orbital.
 
 ---
 
