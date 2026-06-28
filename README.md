@@ -20,20 +20,20 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 
 # 📑 Índice
 
-1. [🌍 Sobre o Projeto](#-sobre-o-projeto)
+1. [🌍 Sobre o Projeto](#sobre-o-projeto)
 2. [🚨 Problema](#problema)
-3. [💡 Solução Proposta](#-solução-proposta)
-4. [📈 Impacto](#-impacto)
-5. [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-6. [📃 Páginas](#-páginas)
-7. [🧪 Simulador Interativo](#-simulador-interativo)
-8. [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-9. [🚀 Como Executar](#-como-executar)
-10. [🧠 Decisões Técnicas](#-decisões-técnicas)
-11. [👨‍💻 Equipe](#-equipe)
+3. [💡 Solução Proposta](#solucao-proposta)
+4. [📈 Impacto](#impacto)
+5. [💻 Tecnologias Utilizadas](#tecnologias)
+6. [📃 Páginas](#paginas)
+7. [🧪 Simulador Interativo](#simulador)
+8. [📂 Estrutura do Projeto](#estrutura)
+9. [🚀 Como Executar](#execucao)
+10. [🧠 Decisões Técnicas](#decisoes)
+11. [👨‍💻 Equipe](#equipe)
     
 ---
-
+<a id="sobre-o-projeto"></a>
 # 🌍 Sobre o Projeto
 
 O **Kessler Shield** foi desenvolvido como solução tecnológica para enfrentar um dos maiores desafios da economia espacial moderna: o crescimento contínuo de **detritos espaciais em órbita terrestre**.
@@ -62,7 +62,7 @@ A órbita terrestre está cada vez mais congestionada por resíduos espaciais ge
 Esses detritos podem desencadear a [**Síndrome de Kessler**](https://misteriosdomundo.org/sindrome-de-kessler/), um efeito cascata onde colisões geram novos fragmentos, aumentando exponencialmente o risco orbital.
 
 ---
-
+<a id="solucao-proposta"></a>
 # 💡 Solução Proposta
 
 O **Kessler Shield** propõe um sistema de remoção de detritos baseado em **Polímero Expansível Inteligente**.
@@ -77,7 +77,7 @@ O **Kessler Shield** propõe um sistema de remoção de detritos baseado em **Po
 Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade orbital.
 
 ---
-
+<a id="impacto"></a>
 # 📈 Impacto
 
 ## 🌐 Benefícios Técnicos
@@ -96,7 +96,7 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 - Futuro mais seguro para missões espaciais
 
 ---
-
+<a id="tecnologias"></a>
 # 💻 Tecnologias Utilizadas
 
 ## Frontend
@@ -127,7 +127,7 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 - Simulações animadas customizadas
 
 ---
-
+<a id="paginas"></a>
 # 📃 Páginas
 
 ## 🏠 Home
@@ -167,7 +167,7 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="980" height="376" alt="Screenshot 2026-06-27 at 22-01-27 Kessler Shield" src="https://github.com/user-attachments/assets/9232a5e7-56e8-48aa-9bf5-431ec0d4c347" />
 
 ---
-
+<a id="simulador"></a>
 # 🧪 Simulador Interativo
 
 Uma das funcionalidades centrais do projeto é o **Simulador Interativo**, criado para transformar conceitos complexos da engenharia espacial em uma experiência visual e intuitiva.
@@ -181,7 +181,7 @@ O simulador permite:
 Essa abordagem melhora significativamente a didática da apresentação e torna a solução mais tangível para o usuário.
 
 ---
-
+<a id="estrutura"></a>
 # 📂 Estrutura do Projeto
 
 ```bash
@@ -206,7 +206,7 @@ src
 ```
 
 ---
-
+<a id="execucao"></a>
 # 🚀 Como Executar
 
 ## Pré-requisitos
@@ -247,7 +247,7 @@ npm run build
 ```
 
 ---
-
+<a id="decisoes"></a>
 # 🧠 Decisões Técnicas
 
 - React + Vite para alta performance
@@ -258,7 +258,7 @@ npm run build
 
 ---
 
-
+<a id="equipe"></a>
 # 👨‍💻 Equipe
 
 ## 👥 Membros
