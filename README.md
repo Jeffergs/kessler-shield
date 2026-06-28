@@ -25,7 +25,7 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 3. [💡 Solução Proposta](#-solução-proposta)
 4. [📈 Impacto](#-impacto)
 5. [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-6. [⚡ Funcionalidades](#-funcionalidades)
+6. [📃 Páginas](#-paginas)
 7. [🧪 Simulador Interativo](#-simulador-interativo)
 8. [🎨 UX & Interatividade](#-ux--interatividade)
 9. [📂 Estrutura do Projeto](#-estrutura-do-projeto)
