@@ -157,7 +157,7 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 # 📃 Páginas
 
 
-## [🏠 Home](https://kessler-shield.vercel.app)
+## 🏠 Home
 <img width="1357" height="926" alt="Screenshot 2026-06-27 at 20-58-35 Kessler Shield" src="https://github.com/user-attachments/assets/3ae92e53-60bd-42f9-ac66-e6acd2d51f87" />
 <img width="1357" height="476" alt="Screenshot 2026-06-27 at 20-47-13 Kessler Shield" src="https://github.com/user-attachments/assets/cb00eec1-5960-4b46-a787-68eccb5a4536" />
 <img width="1359" height="1118" alt="Screenshot 2026-06-27 at 21-04-37 Kessler Shield" src="https://github.com/user-attachments/assets/4fb90502-7dab-471f-90a5-87a5c5c98ac0" />
@@ -168,17 +168,17 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="1359" height="1055" alt="Screenshot 2026-06-27 at 21-09-40 Kessler Shield" src="https://github.com/user-attachments/assets/22983a34-1419-4d70-a977-2572426831b9" />
 <img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/f72998e9-465f-4e4d-bfa8-734fa7658281" />
 
-## [🛰️ Solução](https://kessler-shield.vercel.app/solucao)
+## 🛰️ Solução
 <img width="1660" height="3451" alt="Screenshot 2026-06-27 at 21-47-42 Kessler Shield" src="https://github.com/user-attachments/assets/c86db210-5577-4d24-b381-31ec0a7607f1" />
 
-## [💰 Financeiro](https://kessler-shield.vercel.app/financeiro)
+## 💰 Financeiro
 <img width="1359" height="768" alt="Screenshot 2026-06-28 at 11-24-28 Kessler Shield" src="https://github.com/user-attachments/assets/4e0f3d64-3113-4783-8a3e-f413d25c3a1b" />
 <img width="1359" height="907" alt="Screenshot 2026-06-28 at 11-27-34 Kessler Shield" src="https://github.com/user-attachments/assets/c5098e0b-437e-49b7-a97d-cd4adf35a2f6" />
 <img width="1359" height="970" alt="Screenshot 2026-06-28 at 11-25-13 Kessler Shield" src="https://github.com/user-attachments/assets/c11afd63-0451-41db-9d4d-78126b29928b" />
 <img width="1359" height="728" alt="Screenshot 2026-06-28 at 11-25-38 Kessler Shield" src="https://github.com/user-attachments/assets/9b82a480-92c2-4506-9a7a-4dae66f7c0e7" />
 <img width="1359" height="664" alt="Screenshot 2026-06-28 at 11-19-27 Kessler Shield" src="https://github.com/user-attachments/assets/1c40d833-b4e4-4506-a6b4-fe536d11c493" />
 
-## [📚 Referências](https://kessler-shield.vercel.app/referencias)
+## 📚 Referências
 <img width="1359" height="638" alt="Screenshot 2026-06-28 at 11-17-36 Kessler Shield" src="https://github.com/user-attachments/assets/db309f3f-07e7-4c01-8ad5-81cc6de3df9a" />
 <img width="1359" height="727" alt="Screenshot 2026-06-28 at 11-18-06 Kessler Shield" src="https://github.com/user-attachments/assets/e91f4b2e-c6e7-4fba-9e21-a294c6b118ce" />
 <img width="1359" height="600" alt="Screenshot 2026-06-28 at 11-18-28 Kessler Shield" src="https://github.com/user-attachments/assets/f1615602-e652-4bc7-abe2-df53d22093e0" />
@@ -189,7 +189,7 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="999" height="765" alt="Screenshot 2026-06-27 at 22-00-02 Kessler Shield" src="https://github.com/user-attachments/assets/2dac30e6-00c6-4e32-8af3-d6d17e90aaea" />
 <img width="980" height="376" alt="Screenshot 2026-06-27 at 22-01-27 Kessler Shield" src="https://github.com/user-attachments/assets/9232a5e7-56e8-48aa-9bf5-431ec0d4c347" />
 
-## [🧪 Simulador](https://kessler-shield.vercel.app/simulador)
+## 🧪 Simulador
 <img width="1359" height="639" alt="Screenshot 2026-06-28 at 14-59-11 Kessler Shield" src="https://github.com/user-attachments/assets/f0dcd569-a406-4768-8ac5-b449b51eabfb" />
 <img width="1359" height="639" alt="Screenshot 2026-06-28 at 15-01-20 Kessler Shield" src="https://github.com/user-attachments/assets/b0a84dba-8422-4f78-93e0-2be67fd95f12" />
 
