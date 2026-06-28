@@ -141,11 +141,11 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/f72998e9-465f-4e4d-bfa8-734fa7658281" />
 
 ## 🛰️ Página Solução
-<img width="1359" height="86" alt="Screenshot 2026-06-27 at 21-18-04 Kessler Shield" src="https://github.com/user-attachments/assets/cedc7f1e-d425-4102-9961-a10461104c32" />
-<img width="1359" height="2302" alt="Screenshot 2026-06-27 at 21-19-34 Kessler Shield" src="https://github.com/user-attachments/assets/e8714429-3b4b-472d-829d-58d9dbafd549" />
-<img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/c00c4687-21da-4ad3-9a45-3ccd6a2e6039" />
+<img width="1360" height="3051" alt="Screenshot 2026-06-27 at 21-47-42 Kessler Shield" src="https://github.com/user-attachments/assets/c86db210-5577-4d24-b381-31ec0a7607f1" />
+
 
 ## 💰 Página Financeiro
+<img width="1360" height="4158" alt="Screenshot 2026-06-27 at 21-50-21 Kessler Shield" src="https://github.com/user-attachments/assets/fe23e8cc-f6c5-426c-b689-6faf187472d2" />
 
 
 
@@ -155,13 +155,14 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 - Interação com elementos orbitais
 
 ## 📚 Página Referências
-- Fontes científicas
-- Dados de pesquisa
-- Embasamento técnico
+<img width="1360" height="3333" alt="Screenshot 2026-06-27 at 21-52-11 Kessler Shield" src="https://github.com/user-attachments/assets/415375e8-99cd-4286-aa51-a22a07e3276b" />
 
-## 📞 Página Contato
-- Canal de comunicação
-- Formulário de contato
+
+## 📞 Contato e Newsletter
+<img width="999" height="765" alt="Screenshot 2026-06-27 at 22-00-02 Kessler Shield" src="https://github.com/user-attachments/assets/2dac30e6-00c6-4e32-8af3-d6d17e90aaea" />
+<img width="980" height="376" alt="Screenshot 2026-06-27 at 22-01-27 Kessler Shield" src="https://github.com/user-attachments/assets/9232a5e7-56e8-48aa-9bf5-431ec0d4c347" />
+
+
 
 ---
 
