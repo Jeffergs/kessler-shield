@@ -260,10 +260,13 @@ npm run build
 
 # 👨‍💻 Equipe
 
-Projeto desenvolvido como **Global Solution FIAP**.
+## 👥 Equipe
 
-### Integrantes
-- Jefferson Gomes — Pesquisa, conteúdo e desenvolvimento
-- Equipe multidisciplinar de desenvolvimento e design
 
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeffergs)
+<div align="center">
+
+| [<img width="100" height="100" alt="Jefferson" src="https://github.com/user-attachments/assets/9299736c-cebc-49ca-bb00-00be6c4f4c87" />](https://github.com/Jeffergs) | [<img width="100" height="100" alt="André" src="https://github.com/user-attachments/assets/10c26da5-3e80-4d51-a7ab-3a96054664e1" />](https://github.com/andrefxm) | [<img width="100" height="100" alt="Natália" src="https://github.com/user-attachments/assets/5638611e-13d1-4fde-8dca-b9beedd05ff6" />](https://github.com/nalugao) | [<img width="100" height="100" alt="Gabriel" src="https://github.com/user-attachments/assets/afcef586-d66a-4f83-844f-204828cf3d68" />](https://github.com/GabrielSiSo) | [<img width="100" height="100" alt="Sophia" src="https://github.com/user-attachments/assets/f0ea02d9-628c-4866-8cf8-38613a8b4f13" />](https://github.com/Sophia-Coelho) | 
+|:---:|:---:|:---:|:---:|:---:|
+| [![Jefferson Gomes](https://img.shields.io/badge/Jefferson_Gomes-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeffergs) | [![André Melo](https://img.shields.io/badge/André_Melo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrefxm) | [![Natália Lugão](https://img.shields.io/badge/Natália_Lugão-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nalugao) | [![Gabriel Soares](https://img.shields.io/badge/Gabriel_Soares-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielSiSo) | [![Sophia Coelho](https://img.shields.io/badge/Sophia_Coelho-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sophia-Coelho)  
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-g-silva/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-melo-44b333a5/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-lugao/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soares-1a63712bb/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-heringer/) |
+</div>
