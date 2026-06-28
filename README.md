@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ Kessler Shield — Proteção Orbital Contra Detritos Espaciais
+# 🛰️ Kessler Shield
 
 Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma solução inovadora de captura de detritos espaciais baseada em **polímero expansível inteligente**, com foco em sustentabilidade orbital, segurança espacial e economia do espaço.
 
