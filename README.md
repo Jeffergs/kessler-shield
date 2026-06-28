@@ -140,18 +140,14 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="1359" height="1055" alt="Screenshot 2026-06-27 at 21-09-40 Kessler Shield" src="https://github.com/user-attachments/assets/22983a34-1419-4d70-a977-2572426831b9" />
 <img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/f72998e9-465f-4e4d-bfa8-734fa7658281" />
 
-
-
-
-
 ## 🛰️ Página Solução
-- Explicação detalhada da tecnologia
-- Funcionamento do Kessler Shield
+<img width="1359" height="86" alt="Screenshot 2026-06-27 at 21-18-04 Kessler Shield" src="https://github.com/user-attachments/assets/cedc7f1e-d425-4102-9961-a10461104c32" />
+<img width="1359" height="2302" alt="Screenshot 2026-06-27 at 21-19-34 Kessler Shield" src="https://github.com/user-attachments/assets/e8714429-3b4b-472d-829d-58d9dbafd549" />
+<img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/c00c4687-21da-4ad3-9a45-3ccd6a2e6039" />
 
 ## 💰 Página Financeiro
-- Modelos de monetização
-- Economia orbital
-- Receita B2B / B2G / ESG
+
+
 
 ## 🧪 Página Simulador
 - Simulação visual da captura de detritos
