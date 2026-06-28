@@ -35,7 +35,7 @@
     
 ---
 <a id="desafio"></a>
-# 📝 Descrição do Desafio
+# 📝 Descrição do desafio
 
 A Global Solution FIAP 2026/1 propôs o tema “O Espaço é a Nova Fronteira”, destacando como a economia espacial deixou de ser ficção científica e passou a impactar diretamente a vida na Terra.
 
@@ -46,7 +46,7 @@ O desafio consistia em propor uma solução inovadora capaz de conectar a explor
 ---
 
 <a id="entrega"></a>
-# 🎯 Objetivo da Entrega
+# 🎯 Objetivo da entrega
 
 Desenvolver um MVP web interativo que apresentasse uma prova de conceito da solução proposta, contendo:
 - Página inicial explicando o problema e a proposta da solução
@@ -59,7 +59,7 @@ Desenvolver um MVP web interativo que apresentasse uma prova de conceito da solu
 ---
 
 <a id="sobre-o-projeto"></a>
-# 🌍 Sobre o Projeto
+# 🌍 Sobre o projeto
 
 O **Kessler Shield** foi desenvolvido como solução tecnológica para enfrentar um dos maiores desafios da economia espacial moderna: o crescimento contínuo de **detritos espaciais em órbita terrestre**.
 
@@ -79,7 +79,7 @@ Seu objetivo é demonstrar como inovação e engenharia podem proteger infraestr
 
 A órbita terrestre está cada vez mais congestionada por resíduos espaciais gerados por colisões, lançamentos antigos e satélites desativados.
 
-## Dados Alarmantes
+## Dados alarmantes
 
 - [Mais de 40.000 objetos espaciais rastreados](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
 - [Mais de 1,2 milhão de fragmentos maiores que 1 cm](https://www.esa.int/Space_Safety/Space_Debris/Space_debris_by_the_numbers)
@@ -89,7 +89,7 @@ Esses detritos podem desencadear a [**Síndrome de Kessler**](https://misteriosd
 
 ---
 <a id="solucao-proposta"></a>
-# 💡 Solução Proposta
+# 💡 Solução proposta
 
 O **Kessler Shield** propõe um sistema de remoção de detritos baseado em **Polímero Expansível Inteligente**.
 
@@ -106,24 +106,24 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <a id="impacto"></a>
 # 📈 Impacto
 
-## 🌐 Benefícios Técnicos
+## 🌐 Benefícios técnicos
 - Redução de colisões orbitais
 - Proteção de satélites
 - Maior segurança espacial
 
-## 💰 Benefícios Econômicos
+## 💰 Benefícios econômicos
 - Redução de perdas financeiras
 - Proteção de infraestrutura crítica
 - Expansão da economia espacial
 
-## 🌱 Benefícios Sustentáveis
+## 🌱 Benefícios sustentáveis
 - Menor geração de lixo espacial
 - Preservação da órbita terrestre
 - Futuro mais seguro para missões espaciais
 
 ---
 <a id="tecnologias"></a>
-# 💻 Tecnologias Utilizadas
+# 💻 Tecnologias utilizadas
 
 ## Frontend
 <div>
@@ -156,7 +156,8 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <a id="paginas"></a>
 # 📃 Páginas
 
-## 🏠 Home
+
+## [🏠 Home](https://kessler-shield.vercel.app)
 <img width="1357" height="926" alt="Screenshot 2026-06-27 at 20-58-35 Kessler Shield" src="https://github.com/user-attachments/assets/3ae92e53-60bd-42f9-ac66-e6acd2d51f87" />
 <img width="1357" height="476" alt="Screenshot 2026-06-27 at 20-47-13 Kessler Shield" src="https://github.com/user-attachments/assets/cb00eec1-5960-4b46-a787-68eccb5a4536" />
 <img width="1359" height="1118" alt="Screenshot 2026-06-27 at 21-04-37 Kessler Shield" src="https://github.com/user-attachments/assets/4fb90502-7dab-471f-90a5-87a5c5c98ac0" />
@@ -167,34 +168,34 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="1359" height="1055" alt="Screenshot 2026-06-27 at 21-09-40 Kessler Shield" src="https://github.com/user-attachments/assets/22983a34-1419-4d70-a977-2572426831b9" />
 <img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/f72998e9-465f-4e4d-bfa8-734fa7658281" />
 
-## 🛰️ Solução
+## [🛰️ Solução](https://kessler-shield.vercel.app/solucao)
 <img width="1660" height="3451" alt="Screenshot 2026-06-27 at 21-47-42 Kessler Shield" src="https://github.com/user-attachments/assets/c86db210-5577-4d24-b381-31ec0a7607f1" />
 
-## 💰 Financeiro
+## [💰 Financeiro](https://kessler-shield.vercel.app/financeiro)
 <img width="1359" height="768" alt="Screenshot 2026-06-28 at 11-24-28 Kessler Shield" src="https://github.com/user-attachments/assets/4e0f3d64-3113-4783-8a3e-f413d25c3a1b" />
 <img width="1359" height="907" alt="Screenshot 2026-06-28 at 11-27-34 Kessler Shield" src="https://github.com/user-attachments/assets/c5098e0b-437e-49b7-a97d-cd4adf35a2f6" />
 <img width="1359" height="970" alt="Screenshot 2026-06-28 at 11-25-13 Kessler Shield" src="https://github.com/user-attachments/assets/c11afd63-0451-41db-9d4d-78126b29928b" />
 <img width="1359" height="728" alt="Screenshot 2026-06-28 at 11-25-38 Kessler Shield" src="https://github.com/user-attachments/assets/9b82a480-92c2-4506-9a7a-4dae66f7c0e7" />
 <img width="1359" height="664" alt="Screenshot 2026-06-28 at 11-19-27 Kessler Shield" src="https://github.com/user-attachments/assets/1c40d833-b4e4-4506-a6b4-fe536d11c493" />
 
-## 🧪 Simulador
-<img width="1359" height="639" alt="Screenshot 2026-06-28 at 14-59-11 Kessler Shield" src="https://github.com/user-attachments/assets/f0dcd569-a406-4768-8ac5-b449b51eabfb" />
-<img width="1359" height="639" alt="Screenshot 2026-06-28 at 15-01-20 Kessler Shield" src="https://github.com/user-attachments/assets/b0a84dba-8422-4f78-93e0-2be67fd95f12" />
-
-## 📚 Referências
+## [📚 Referências](https://kessler-shield.vercel.app/referencias)
 <img width="1359" height="638" alt="Screenshot 2026-06-28 at 11-17-36 Kessler Shield" src="https://github.com/user-attachments/assets/db309f3f-07e7-4c01-8ad5-81cc6de3df9a" />
 <img width="1359" height="727" alt="Screenshot 2026-06-28 at 11-18-06 Kessler Shield" src="https://github.com/user-attachments/assets/e91f4b2e-c6e7-4fba-9e21-a294c6b118ce" />
 <img width="1359" height="600" alt="Screenshot 2026-06-28 at 11-18-28 Kessler Shield" src="https://github.com/user-attachments/assets/f1615602-e652-4bc7-abe2-df53d22093e0" />
 <img width="1359" height="708" alt="Screenshot 2026-06-28 at 11-19-03 Kessler Shield" src="https://github.com/user-attachments/assets/c15c194b-e9b1-4e77-9ee6-18630e14fba2" />
 <img width="1359" height="664" alt="Screenshot 2026-06-28 at 11-19-27 Kessler Shield" src="https://github.com/user-attachments/assets/91b590a4-9a7c-4ac9-aa8f-9b407fcbccc2" />
 
-## 📞 Contato e Newsletter
+## 📞 Contato e newsletter
 <img width="999" height="765" alt="Screenshot 2026-06-27 at 22-00-02 Kessler Shield" src="https://github.com/user-attachments/assets/2dac30e6-00c6-4e32-8af3-d6d17e90aaea" />
 <img width="980" height="376" alt="Screenshot 2026-06-27 at 22-01-27 Kessler Shield" src="https://github.com/user-attachments/assets/9232a5e7-56e8-48aa-9bf5-431ec0d4c347" />
 
+## [🧪 Simulador](https://kessler-shield.vercel.app/simulador)
+<img width="1359" height="639" alt="Screenshot 2026-06-28 at 14-59-11 Kessler Shield" src="https://github.com/user-attachments/assets/f0dcd569-a406-4768-8ac5-b449b51eabfb" />
+<img width="1359" height="639" alt="Screenshot 2026-06-28 at 15-01-20 Kessler Shield" src="https://github.com/user-attachments/assets/b0a84dba-8422-4f78-93e0-2be67fd95f12" />
+
 ---
 <a id="simulador"></a>
-# 🧪 Simulador Interativo
+# 🧪 Sobre o simulador interativo
 
 Uma das funcionalidades centrais do projeto é o **Simulador Interativo**, criado para transformar conceitos complexos da engenharia espacial em uma experiência visual e intuitiva.
 
