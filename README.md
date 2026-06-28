@@ -154,7 +154,11 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 - Interação com elementos orbitais
 
 ## 📚 Página Referências
-<img width="1360" height="3333" alt="Screenshot 2026-06-27 at 21-52-11 Kessler Shield" src="https://github.com/user-attachments/assets/415375e8-99cd-4286-aa51-a22a07e3276b" />
+<img width="1359" height="638" alt="Screenshot 2026-06-28 at 11-17-36 Kessler Shield" src="https://github.com/user-attachments/assets/db309f3f-07e7-4c01-8ad5-81cc6de3df9a" />
+<img width="1359" height="727" alt="Screenshot 2026-06-28 at 11-18-06 Kessler Shield" src="https://github.com/user-attachments/assets/e91f4b2e-c6e7-4fba-9e21-a294c6b118ce" />
+<img width="1359" height="600" alt="Screenshot 2026-06-28 at 11-18-28 Kessler Shield" src="https://github.com/user-attachments/assets/f1615602-e652-4bc7-abe2-df53d22093e0" />
+<img width="1359" height="708" alt="Screenshot 2026-06-28 at 11-19-03 Kessler Shield" src="https://github.com/user-attachments/assets/c15c194b-e9b1-4e77-9ee6-18630e14fba2" />
+<img width="1359" height="664" alt="Screenshot 2026-06-28 at 11-19-27 Kessler Shield" src="https://github.com/user-attachments/assets/91b590a4-9a7c-4ac9-aa8f-9b407fcbccc2" />
 
 
 ## 📞 Contato e Newsletter
