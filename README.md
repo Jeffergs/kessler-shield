@@ -260,7 +260,7 @@ npm run build
 
 # 👨‍💻 Equipe
 
-## 👥 Equipe
+## 👥 Membros
 
 
 <div align="center">
@@ -270,3 +270,46 @@ npm run build
 | [![Jefferson Gomes](https://img.shields.io/badge/Jefferson_Gomes-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeffergs) | [![André Melo](https://img.shields.io/badge/André_Melo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrefxm) | [![Natália Lugão](https://img.shields.io/badge/Natália_Lugão-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nalugao) | [![Gabriel Soares](https://img.shields.io/badge/Gabriel_Soares-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielSiSo) | [![Sophia Coelho](https://img.shields.io/badge/Sophia_Coelho-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sophia-Coelho)  
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-g-silva/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-melo-44b333a5/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-lugao/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soares-1a63712bb/) | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-heringer/) |
 </div>
+
+### 📋Tarefas de cada membro
+
+<div>
+👨‍💻André Melo <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Desenvolvimento criativo do projeto <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Criação do vídeo pitch
+</div>
+
+<br>
+
+<div>
+👨‍💻Gabriel Soares <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Desenvolvimento a página de "Solução" e a seção "Quem somos" <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Colaboroção na correção de bugs críticos da aplicação <br>
+</div>
+
+<br>
+
+<div>
+👨‍💻 Jefferson Gomes <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Criação da página "Financeiro" <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Documentação do projeto (ReadMe) 
+</div>
+
+<br>
+
+<div>
+👩‍💻Natalia Lugao <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Desenvolvimento da identidade visual do projeto <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Criação da página "Simulador", "Referências" e parte da "Home" <br>
+</div>
+
+<br>
+
+<div>
+👩‍💻Sophia Coelho <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Criação da "Área de contato" <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Criação da acessibilidade e tradução das telas <br>
+&nbsp &nbsp &nbsp &nbsp ✅ Colaboração na correção de bugs críticos da aplicação
+
+</div>
+
