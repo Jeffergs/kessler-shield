@@ -12,6 +12,8 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 
 <p>
 🌐 <strong>Deploy:</strong> https://kessler-shield.vercel.app/
+<p>🎥 <strong>Pitch (3 min):</strong> <a href="https://www.youtube.com/watch?v=q7S56RCBdp8" style="color:#f57c00;">Assista aqui</a></p>
+<p>📌 <strong>Prazo Total do Projeto:</strong> <span style="color:#0288d1;">16 dias</span></p>
 </p>
 
 </div>
@@ -20,19 +22,45 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 
 # 📑 Índice
 
-1. [🌍 Sobre o Projeto](#sobre-o-projeto)
-2. [🚨 Problema](#problema)
-3. [💡 Solução Proposta](#solucao-proposta)
-4. [📈 Impacto](#impacto)
-5. [💻 Tecnologias Utilizadas](#tecnologias)
-6. [📃 Páginas](#paginas)
-7. [🧪 Simulador Interativo](#simulador)
-8. [📂 Estrutura do Projeto](#estrutura)
-9. [🚀 Como Executar](#execucao)
-10. [🧠 Decisões Técnicas](#decisoes)
-11. [👨‍💻 Equipe](#equipe)
+1. [📝 Descrição do desafio](#desafio)
+2. [🎯 Objetivo da entrega](#entrega)
+3. [🌍 Sobre o projeto](#sobre-o-projeto)
+4. [🚨 Problema](#problema)
+5. [💡 Solução proposta](#solucao-proposta)
+6. [📈 Impacto](#impacto)
+7. [💻 Tecnologias utilizadas](#tecnologias)
+8. [📃 Páginas](#paginas)
+9. [🧪 Simulador interativo](#simulador)
+10. [📂 Estrutura do projeto](#estrutura)
+11. [🚀 Como executar](#execucao)
+12. [🧠 Decisões técnicas](#decisoes)
+13. [👨‍💻 Equipe](#equipe)
     
 ---
+<a id="desafio"></a>
+# 📝 Descrição do Desafio
+
+A Global Solution FIAP 2026/1 propôs o tema “O Espaço é a Nova Fronteira”, destacando como a economia espacial deixou de ser ficção científica e passou a impactar diretamente a vida na Terra.
+
+Satélites já são utilizados para monitorar o clima, orientar o agronegócio, prevenir desastres, conectar regiões remotas e apoiar decisões em escala global. Além disso, missões espaciais abrem caminho para novos mercados, como mineração espacial, turismo orbital e futuras iniciativas de colonização da Lua e de Marte.
+
+O desafio consistia em propor uma solução inovadora capaz de conectar a exploração espacial com problemas e oportunidades reais, utilizando tecnologia, dados, infraestrutura espacial ou novos modelos de negócio.
+
+---
+
+<a id="entrega"></a>
+# 🎯 Objetivo da Entrega
+
+Desenvolver um MVP web interativo que apresentasse uma prova de conceito da solução proposta, contendo:
+- Página inicial explicando o problema e a proposta da solução
+- Simulação visual ou interativa
+- Pelo menos 3 páginas navegáveis
+- Layout responsivo para desktop e mobile
+- Scripts JS para simular funcionalidades
+- Vídeo pitch de até 3 minutos demonstrando o protótipo
+
+---
+
 <a id="sobre-o-projeto"></a>
 # 🌍 Sobre o Projeto
 
@@ -48,6 +76,7 @@ O projeto combina:
 Seu objetivo é demonstrar como inovação e engenharia podem proteger infraestruturas críticas dependentes do espaço.
 
 ---
+
 <a id="problema"></a>
 # 🚨 Problema
 
