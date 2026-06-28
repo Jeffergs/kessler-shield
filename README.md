@@ -48,7 +48,7 @@ O projeto combina:
 Seu objetivo é demonstrar como inovação e engenharia podem proteger infraestruturas críticas dependentes do espaço.
 
 ---
-
+<a id="problema"></a>
 # 🚨 Problema
 
 A órbita terrestre está cada vez mais congestionada por resíduos espaciais gerados por colisões, lançamentos antigos e satélites desativados.
