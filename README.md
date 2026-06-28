@@ -21,7 +21,7 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 # 📑 Índice
 
 1. [🌍 Sobre o Projeto](#-sobre-o-projeto)
-2. [🚨 Problema](#-problema)
+2. [🚨 Problema](#problema)
 3. [💡 Solução Proposta](#-solução-proposta)
 4. [📈 Impacto](#-impacto)
 5. [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
