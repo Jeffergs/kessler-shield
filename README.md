@@ -130,9 +130,19 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 # ⚡ Funcionalidades
 
 ## 🏠 Página Inicial
-- Introdução ao problema
-- Hero section animada
-- Navegação intuitiva
+<img width="1357" height="926" alt="Screenshot 2026-06-27 at 20-58-35 Kessler Shield" src="https://github.com/user-attachments/assets/3ae92e53-60bd-42f9-ac66-e6acd2d51f87" />
+<img width="1357" height="476" alt="Screenshot 2026-06-27 at 20-47-13 Kessler Shield" src="https://github.com/user-attachments/assets/cb00eec1-5960-4b46-a787-68eccb5a4536" />
+<img width="1359" height="1118" alt="Screenshot 2026-06-27 at 21-04-37 Kessler Shield" src="https://github.com/user-attachments/assets/4fb90502-7dab-471f-90a5-87a5c5c98ac0" />
+<img width="1357" height="822" alt="Screenshot 2026-06-27 at 21-06-48 Kessler Shield" src="https://github.com/user-attachments/assets/ffa9b16f-a333-49d6-aea4-83d3149e61e4" />
+<img width="1358" height="843" alt="Screenshot 2026-06-27 at 21-07-32 Kessler Shield" src="https://github.com/user-attachments/assets/c557615f-2f6d-4df8-b2a1-9d1d77a92133" />
+<img width="1359" height="1041" alt="Screenshot 2026-06-27 at 21-08-05 Kessler Shield" src="https://github.com/user-attachments/assets/596c3e45-6bc3-4c15-8249-42b4bcd50dda" />
+<img width="1359" height="845" alt="Screenshot 2026-06-27 at 21-08-45 Kessler Shield" src="https://github.com/user-attachments/assets/a3e145e4-fb1a-4c7b-8cee-6e5f844f94bc" />
+<img width="1359" height="1055" alt="Screenshot 2026-06-27 at 21-09-40 Kessler Shield" src="https://github.com/user-attachments/assets/22983a34-1419-4d70-a977-2572426831b9" />
+<img width="1359" height="662" alt="Screenshot 2026-06-27 at 21-10-27 Kessler Shield" src="https://github.com/user-attachments/assets/f72998e9-465f-4e4d-bfa8-734fa7658281" />
+
+
+
+
 
 ## 🛰️ Página Solução
 - Explicação detalhada da tecnologia
