@@ -151,9 +151,8 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 <img width="1359" height="664" alt="Screenshot 2026-06-28 at 11-19-27 Kessler Shield" src="https://github.com/user-attachments/assets/1c40d833-b4e4-4506-a6b4-fe536d11c493" />
 
 ## 🧪 Simulador
-- Simulação visual da captura de detritos
-- Demonstração prática da solução
-- Interação com elementos orbitais
+<img width="1359" height="639" alt="Screenshot 2026-06-28 at 14-59-11 Kessler Shield" src="https://github.com/user-attachments/assets/f0dcd569-a406-4768-8ac5-b449b51eabfb" />
+<img width="1359" height="639" alt="Screenshot 2026-06-28 at 15-01-20 Kessler Shield" src="https://github.com/user-attachments/assets/b0a84dba-8422-4f78-93e0-2be67fd95f12" />
 
 ## 📚 Referências
 <img width="1359" height="638" alt="Screenshot 2026-06-28 at 11-17-36 Kessler Shield" src="https://github.com/user-attachments/assets/db309f3f-07e7-4c01-8ad5-81cc6de3df9a" />
@@ -173,7 +172,6 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 Uma das funcionalidades centrais do projeto é o **Simulador Interativo**, criado para transformar conceitos complexos da engenharia espacial em uma experiência visual e intuitiva.
 
 O simulador permite:
-
 - Visualizar detritos orbitando em tempo real
 - Entender riscos de colisão orbital
 - Observar o processo de captura pelo Kessler Shield
