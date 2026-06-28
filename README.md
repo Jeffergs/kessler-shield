@@ -145,7 +145,7 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 
 
 ## 💰 Página Financeiro
-<img width="1360" height="4158" alt="Screenshot 2026-06-27 at 21-50-21 Kessler Shield" src="https://github.com/user-attachments/assets/fe23e8cc-f6c5-426c-b689-6faf187472d2" />
+<img width="1960" height="4858" alt="Screenshot 2026-06-27 at 21-50-21 Kessler Shield" src="https://github.com/user-attachments/assets/fe23e8cc-f6c5-426c-b689-6faf187472d2" />
 
 
 
