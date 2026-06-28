@@ -144,7 +144,12 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 
 
 ## 💰 Página Financeiro
-<img width="1960" height="4858" alt="Screenshot 2026-06-27 at 21-50-21 Kessler Shield" src="https://github.com/user-attachments/assets/fe23e8cc-f6c5-426c-b689-6faf187472d2" />
+<img width="1359" height="768" alt="Screenshot 2026-06-28 at 11-24-28 Kessler Shield" src="https://github.com/user-attachments/assets/4e0f3d64-3113-4783-8a3e-f413d25c3a1b" />
+<img width="1359" height="907" alt="Screenshot 2026-06-28 at 11-27-34 Kessler Shield" src="https://github.com/user-attachments/assets/c5098e0b-437e-49b7-a97d-cd4adf35a2f6" />
+<img width="1359" height="970" alt="Screenshot 2026-06-28 at 11-25-13 Kessler Shield" src="https://github.com/user-attachments/assets/c11afd63-0451-41db-9d4d-78126b29928b" />
+<img width="1359" height="728" alt="Screenshot 2026-06-28 at 11-25-38 Kessler Shield" src="https://github.com/user-attachments/assets/9b82a480-92c2-4506-9a7a-4dae66f7c0e7" />
+<img width="1359" height="664" alt="Screenshot 2026-06-28 at 11-19-27 Kessler Shield" src="https://github.com/user-attachments/assets/1c40d833-b4e4-4506-a6b4-fe536d11c493" />
+
 
 
 
