@@ -1,9 +1,6 @@
 <div align="center">
 
 # 🛰️ Kessler Shield
-
-Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma solução inovadora de captura de detritos espaciais baseada em **polímero expansível inteligente**, com foco em sustentabilidade orbital, segurança espacial e economia do espaço.
-
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Build-purple?style=for-the-badge&logo=vite)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
