@@ -101,20 +101,22 @@ Essa abordagem reduz riscos de colisão e ajuda a preservar a sustentabilidade o
 
 ## Frontend
 <div>
-&nbsp <img width="20" height="20" alt="icons8-reagir-48" src="https://github.com/user-attachments/assets/6188ab74-3abf-4347-8b82-295a49e375ab" /> &nbsp; <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React 19 </a>
+&nbsp <img width="20" height="20" alt="React 19" src="https://github.com/user-attachments/assets/6188ab74-3abf-4347-8b82-295a49e375ab" /> &nbsp; <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React 19 </a>
 <br>
-&nbsp <img width="20" height="20" alt="icons8-reagir-48" src="https://github.com/user-attachments/assets/035a2d94-4ddc-4673-92c7-35bf18e3f965" /> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> JavaScript </a>
+&nbsp <img width="20" height="20" alt="Javascript" src="https://github.com/user-attachments/assets/035a2d94-4ddc-4673-92c7-35bf18e3f965" /> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> JavaScript </a>
 <br>
-&nbsp <img width="20" height="20" alt="icons8-reagir-48" src="https://github.com/user-attachments/assets/c8f05793-3230-4dea-b41c-a219cf033689" /> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> Vite </a> 
+&nbsp <img width="20" height="20" alt="Vite" src="https://github.com/user-attachments/assets/c8f05793-3230-4dea-b41c-a219cf033689" /> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> Vite </a> 
 </div>
 
 ## UI / UX
 <div>
+&nbsp <img width="20" height="20" alt="CSS 3" src="https://github.com/user-attachments/assets/dc7b892c-b557-4f37-8bd8-275574743dde" /> &nbsp; <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer">CSS 3</a>
+<br>
 &nbsp <img width="20" height="20"  alt="bootstrap" src="https://github.com/user-attachments/assets/b2efa926-4a9e-4fa8-b59f-92240e152954" /> &nbsp; <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap 5.3</a>   
 <br>
-&nbsp <img width="20" height="20" alt="framer-2" src="https://github.com/user-attachments/assets/f567e1c9-5ee8-449b-9415-02e5d0f92fb3" /> &nbsp; <a href="https://www.framer.com/academy/courses/fundamentals" target="_blank" rel="noopener noreferrer">Framer Motion</a>   
+&nbsp <img width="20" height="20" alt="Framer motion" src="https://github.com/user-attachments/assets/f567e1c9-5ee8-449b-9415-02e5d0f92fb3" /> &nbsp; <a href="https://www.framer.com/academy/courses/fundamentals" target="_blank" rel="noopener noreferrer">Framer motion</a>   
 <br>
-&nbsp <img width="20" height="20" alt="icons8-reagir-80" src="https://github.com/user-attachments/assets/03aa3b01-2747-4e7f-b31a-69bedd3a9237" /> &nbsp; <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noopener noreferrer">React Icons</a>
+&nbsp <img width="20" height="20" alt="React icons" src="https://github.com/user-attachments/assets/03aa3b01-2747-4e7f-b31a-69bedd3a9237" /> &nbsp; <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noopener noreferrer">React icons</a>
 <br>
 &nbsp <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6c9ccd81-3aef-4fd7-b1f1-5b892837e880" /> &nbsp; <a href="https://lucide.dev/" target="_blank" rel="noopener noreferrer">Lucide React</a>
 </div>
