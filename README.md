@@ -27,10 +27,9 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 5. [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 6. [📃 Páginas](#-páginas)
 7. [🧪 Simulador Interativo](#-simulador-interativo)
-8. [🎨 UX & Interatividade](#-ux--interatividade)
-9. [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-10. [🚀 Como Executar](#-como-executar)
-11. [🧠 Decisões Técnicas](#-decisões-técnicas)
+8. [📂 Estrutura do Projeto](#-estrutura-do-projeto)
+9. [🚀 Como Executar](#-como-executar)
+10. [🧠 Decisões Técnicas](#-decisões-técnicas)
 
 ---
 
@@ -181,20 +180,6 @@ O simulador permite:
 - Compreender o papel do polímero expansível na mitigação de riscos
 
 Essa abordagem melhora significativamente a didática da apresentação e torna a solução mais tangível para o usuário.
-
----
-
-# 🎨 UX & Interatividade
-
-O projeto prioriza uma experiência visual moderna e altamente interativa.
-
-## Recursos Visuais
-
-- 🌌 Background espacial animado
-- ✨ Transições suaves com Framer Motion
-- 📊 Contadores animados
-- 🚀 Scroll effects
-- 📱 Design totalmente responsivo
 
 ---
 
