@@ -31,7 +31,6 @@ Plataforma web interativa desenvolvida para apresentar o **Kessler Shield**, uma
 9. [📂 Estrutura do Projeto](#-estrutura-do-projeto)
 10. [🚀 Como Executar](#-como-executar)
 11. [🧠 Decisões Técnicas](#-decisões-técnicas)
-12. [🚧 Melhorias Futuras](#-melhorias-futuras)
 
 ---
 
